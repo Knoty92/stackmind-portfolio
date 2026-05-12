@@ -11,6 +11,15 @@ const projects = [
     desc: 'Puzzle game about bending light. Conceived and halted in under 10 minutes — a new record.',
   },
   {
+    name: 'Soči Memorial',
+    tagline: 'A Valheim base memorial.',
+    repo: 'soci-memorial',
+    url: 'https://soci-memorial.vercel.app',
+    progress: 0,
+    color: '#d97706',
+    desc: 'Memorial page for the abandoned Soči base. Candle flicker, ghost town vibes.',
+  },
+  {
     name: 'Aurelium',
     tagline: 'Something extraordinary is being forged.',
     repo: 'aurelium',
