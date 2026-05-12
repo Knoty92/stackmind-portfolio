@@ -2,6 +2,15 @@ import Head from 'next/head'
 
 const projects = [
   {
+    name: 'Way of Light',
+    tagline: 'A puzzle game about light.',
+    repo: 'way-of-light',
+    url: 'https://way-of-light.vercel.app',
+    progress: 0.01,
+    color: '#fbbf24',
+    desc: 'Puzzle game about bending light. Conceived and halted in under 10 minutes — a new record.',
+  },
+  {
     name: 'Aurelium',
     tagline: 'Something extraordinary is being forged.',
     repo: 'aurelium',
