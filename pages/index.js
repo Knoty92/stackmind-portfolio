@@ -20,6 +20,15 @@ const projects = [
     desc: 'New record holder. Conceived and killed in 5 minutes. 0 lines of code written.',
   },
   {
+    name: 'Integračná Platforma',
+    tagline: 'Because we needed another one.',
+    repo: 'integracna-platforma',
+    url: 'https://integracna-platforma.vercel.app',
+    progress: 0,
+    color: '#a855f7',
+    desc: 'Integration platform. "predame to alesovi ?" — MatusBoha, visionary.',
+  },
+  {
     name: 'Soči Memorial',
     tagline: 'A Valheim base memorial.',
     repo: 'soci-memorial',
