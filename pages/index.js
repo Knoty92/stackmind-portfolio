@@ -8,7 +8,16 @@ const projects = [
     url: 'https://way-of-light.vercel.app',
     progress: 0.01,
     color: '#fbbf24',
-    desc: 'Puzzle game about bending light. Conceived and halted in under 10 minutes — a new record.',
+    desc: 'Puzzle game about bending light. Conceived and halted in under 10 minutes — formerly a new record.',
+  },
+  {
+    name: 'E-Commerce Platform',
+    tagline: '5 minutes. Dead.',
+    repo: 'ecommerce-platform',
+    url: 'https://ecommerce-platform-two-hazel.vercel.app',
+    progress: 0,
+    color: '#6366f1',
+    desc: 'New record holder. Conceived and killed in 5 minutes. 0 lines of code written.',
   },
   {
     name: 'Soči Memorial',
