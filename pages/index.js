@@ -47,6 +47,15 @@ const projects = [
     desc: 'Pre-boss preparation guide. Stage, gear, weapons, arena & strategy. King Slime included.',
   },
   {
+    name: 'Hermes — vypni verbose',
+    tagline: 'How to shut Hermes up.',
+    repo: 'eow-guide',
+    url: 'https://eow-guide-repo.vercel.app/hermes-verbose.html',
+    progress: 10,
+    color: '#3b82f6',
+    desc: 'Config guide: tool_progress, approvals, reasoning, quiet mode & flags.',
+  },
+  {
     name: 'Psycho Profily',
     tagline: 'StackMind personality profiles.',
     repo: 'psycho-profily',
