@@ -163,6 +163,15 @@ const projects = [
     color: '#22c55e',
     desc: 'Technical post-mortem of the Olive Incident 2026. Acute olive toxicity, terminal bloating, successful cleanse. Dignity preserved: 10/10.',
   },
+  {
+    name: 'Papaya Acquisition',
+    tagline: '🌴 Hostile takeover of Zrce finest.',
+    repo: 'papaya-acquisition',
+    url: 'https://papaya-acquisition.vercel.app',
+    progress: 0,
+    color: '#ff6b35',
+    desc: 'Strategic board document for hostile takeover of Papaya Club, Zrce Beach. 4-phase acquisition plan, financial projections (fake), Board of Directors with equity split.',
+  },
 ]
 
 export default function Home() {
