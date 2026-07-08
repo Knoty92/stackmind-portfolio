@@ -154,6 +154,15 @@ const projects = [
     color: '#71717a',
     desc: 'Unreal / Unity game project. Development halted. Hype at 0.01%.',
   },
+  {
+    name: 'Olive Incident',
+    tagline: '🫒 Knoty ate a whole can of olives.',
+    repo: 'olive-incident',
+    url: 'https://olive-incident.vercel.app',
+    progress: 100,
+    color: '#22c55e',
+    desc: 'Technical post-mortem of the Olive Incident 2026. Acute olive toxicity, terminal bloating, successful cleanse. Dignity preserved: 10/10.',
+  },
 ]
 
 export default function Home() {
