@@ -2,6 +2,15 @@ import Head from 'next/head'
 
 const projects = [
   {
+    name: 'KDM',
+    tagline: 'Kadencia | Disciplína | Morálka',
+    repo: 'kdm-brand',
+    url: 'https://kdm-brand.vercel.app',
+    progress: 10,
+    color: '#d4a843',
+    desc: 'Enterprise brand identity. Three pillars of excellence — rhythm, discipline, integrity. Black & gold aesthetic.',
+  },
+  {
     name: 'Way of Light',
     tagline: 'A puzzle game about light.',
     repo: 'way-of-light',
