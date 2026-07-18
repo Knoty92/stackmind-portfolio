@@ -180,6 +180,14 @@ const projects = [
     progress: 0,
     color: '#ff6b35',
     desc: 'Strategic board document for hostile takeover of Papaya Club, Zrce Beach. 4-phase acquisition plan, financial projections (fake), Board of Directors with equity split.',
+  {
+    name: 'CK3 Hashtags',
+    tagline: '#verime #silnecesko #worldpeace',
+    repo: 'ck3-hashtags',
+    url: 'https://ck3-hashtags.vercel.app',
+    progress: 100,
+    color: '#e0c978',
+    desc: 'CK3 alliance propaganda page. Knoty + Matej confederation era.',
   },
 ]
 
