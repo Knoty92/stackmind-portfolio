@@ -189,8 +189,16 @@ const projects = [
     color: '#e0c978',
     desc: 'CK3 alliance propaganda page. Knoty + Matej confederation era.',
   },
+  {
+    name: 'CK3 Kronika',
+    tagline: 'Kronika Ceská & Moravská',
+    repo: 'ck3-kronika',
+    url: 'https://ck3-kronika.vercel.app',
+    progress: 100,
+    color: '#d4c5a0',
+    desc: 'CK3 gameplay chronicle. Interactive slider with medieval-styled storytelling.',
+  },
 ]
-
 export default function Home() {
   return (
     <>
