@@ -26,7 +26,16 @@ const projects = [
     url: 'https://ecommerce-platform-two-hazel.vercel.app',
     progress: 0,
     color: '#6366f1',
-    desc: 'New record holder. Conceived and killed in 5 minutes. 0 lines of code written.',
+    desc: 'Former record holder. Conceived and killed in 5 minutes. 0 lines of code written.',
+  },
+  {
+    name: 'SIMUportfolio Tender',
+    tagline: '3 minutes. New record. 💀',
+    repo: '#',
+    url: '#',
+    progress: 0,
+    color: '#ef4444',
+    desc: 'Current record holder. Conceived and incinerated in 3 minutes. No repo, no Vercel, just vibes. "Velký hype až moc a vyhořel jsem" — Knoty, 2026.',
   },
   {
     name: 'Integračná Platforma',
