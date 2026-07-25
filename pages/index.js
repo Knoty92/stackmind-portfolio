@@ -38,6 +38,15 @@ const projects = [
     desc: 'Current record holder. Conceived and incinerated in 3 minutes. No repo, no Vercel, just vibes. "Velký hype až moc a vyhořel jsem" — Knoty, 2026.',
   },
   {
+    name: 'Solo Ownership',
+    tagline: 'Matus odchází. Knoty zůstává.',
+    repo: 'stackmind-statement',
+    url: 'https://stackmind-statement.vercel.app',
+    progress: 100,
+    color: '#22c55e',
+    desc: 'Formální ukončení spolupráce. StackMind přechází pod výhradní vlastnictví Knotyho. "StackMind žije dál — ne v kódu, ne v repozitářích, ale v srdcích těch, kdo věří."',
+  },
+  {
     name: 'Integračná Platforma',
     tagline: 'Because we needed another one.',
     repo: 'integracna-platforma',
