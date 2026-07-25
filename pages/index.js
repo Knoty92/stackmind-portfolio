@@ -47,6 +47,15 @@ const projects = [
     desc: 'Formální ukončení spolupráce. StackMind přechází pod výhradní vlastnictví Knotyho. "StackMind žije dál — ne v kódu, ne v repozitářích, ale v srdcích těch, kdo věří."',
   },
   {
+    name: 'Ľavé Varla',
+    tagline: 'Retrakcia do brušnej dutiny.',
+    repo: 'lave-varla',
+    url: 'https://lave-varla.vercel.app',
+    progress: 100,
+    color: '#8b4513',
+    desc: 'Anatomicky presná simulácia ľavého varla schovávajúceho sa do brušnej dutiny. Animovaná landing page. Molestermatej Laboratories.',
+  },
+  {
     name: 'Integračná Platforma',
     tagline: 'Because we needed another one.',
     repo: 'integracna-platforma',
