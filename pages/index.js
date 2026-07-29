@@ -11,6 +11,15 @@ const projects = [
     desc: 'Enterprise brand identity. Three pillars of excellence — rhythm, discipline, integrity. Black & gold aesthetic.',
   },
   {
+    name: 'StackCRM',
+    tagline: 'Lehký CRM pro realitní obchod',
+    repo: 'stackcrm',
+    url: 'https://stackcrm-chi.vercel.app',
+    progress: 65,
+    color: '#111827',
+    desc: 'CRM na míru pro StackMind. Kontakty, leady, opportunity pipeline s kanbanem. Nuxt 4 + Tailwind.',
+  },
+  {
     name: 'Way of Light',
     tagline: 'A puzzle game about light.',
     repo: 'way-of-light',
