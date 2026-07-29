@@ -14,7 +14,7 @@ const projects = [
     name: 'StackCRM',
     tagline: 'Lehký CRM pro realitní obchod',
     repo: 'stackcrm',
-    url: 'https://stackcrm-chi.vercel.app',
+    url: 'https://stackcrm-fresh.vercel.app',
     progress: 65,
     color: '#111827',
     desc: 'CRM na míru pro StackMind. Kontakty, leady, opportunity pipeline s kanbanem. Nuxt 4 + Tailwind.',
