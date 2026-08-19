@@ -2,6 +2,15 @@ import Head from 'next/head'
 
 const projects = [
   {
+    name: 'Zákon 10 kuchařů',
+    tagline: '10 kuchařů rychleji chleba neupeče.',
+    repo: 'deset-kucharu',
+    url: 'https://deset-kucharu.vercel.app',
+    progress: 100,
+    color: '#f59e0b',
+    desc: 'Scaling law No. 1: víc lidí nezrychlí jednu věc, ale udělá víc věcí najednou. 10 kuchařů → 10 chlebů za stejný čas.',
+  },
+  {
     name: 'KDM',
     tagline: 'Kadencia | Disciplína | Morálka',
     repo: 'kdm-brand',
