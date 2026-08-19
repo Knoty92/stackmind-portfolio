@@ -225,6 +225,7 @@ const projects = [
     progress: 0,
     color: '#ff6b35',
     desc: 'Strategic board document for hostile takeover of Papaya Club, Zrce Beach. 4-phase acquisition plan, financial projections (fake), Board of Directors with equity split.',
+  },
   {
     name: 'CK3 Hashtags',
     tagline: '#verime #silnecesko #worldpeace',
