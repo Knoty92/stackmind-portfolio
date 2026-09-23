@@ -2,6 +2,15 @@ import Head from 'next/head'
 
 const projects = [
   {
+    name: 'Business nesmie stagnovať',
+    tagline: 'Vzchop se a začni makat. Dnes.',
+    repo: 'business-nestagnovat',
+    url: 'https://business-nestagnovat.vercel.app',
+    progress: 100,
+    color: '#ff5252',
+    desc: 'Jednostránkový web na téma, že business nesmie stagnovať. Počítadlo dní bez mailingu, kalkulačka studených mailov a realistický odhad.',
+  },
+  {
     name: 'Zákon 10 kuchařů',
     tagline: '10 kuchařů rychleji chleba neupeče.',
     repo: 'deset-kucharu',
